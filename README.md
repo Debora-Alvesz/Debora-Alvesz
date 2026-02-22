@@ -1,5 +1,5 @@
 ## Débora 👩‍💻
-### Estudante de Análise e Desenvolvimento de Sistemas no **IFBA** 🎓
+### Estudante de Análise e Desenvolvimento de Sistemas🎓
 
 - 📚 Atualmente cursando ADS no Instituto Federal da Bahia.
 - 💻 Experiência acadêmica com as linguagens **C** e **Java**.
