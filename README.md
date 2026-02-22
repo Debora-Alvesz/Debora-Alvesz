@@ -24,7 +24,6 @@
 </div>
 
 ---
-### 📊 Estatísticas do GitHub
 
 <p align="left">
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Debora-Alvesz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
