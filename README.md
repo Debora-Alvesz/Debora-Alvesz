@@ -24,12 +24,11 @@
 </div>
 
 ---
-
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Debora-Alvesz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debora-Alvesz&layout=compact&theme=radical"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Debora-Alvesz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Debora-Alvesz&layout=compact&theme=radical"/>
 </p>
 
 ---
