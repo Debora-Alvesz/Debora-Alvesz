@@ -14,7 +14,7 @@
   <a href="https://www.instagram.com/Debora_alvesz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
-  <a href="mailto:deboraasantos.039@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=deboraasantos.039@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
 </a>
 </div>
