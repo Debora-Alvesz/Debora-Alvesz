@@ -4,7 +4,7 @@
 - 📚 Atualmente cursando ADS no Instituto Federal da Bahia.
 - 💻 Experiência acadêmica com as linguagens **C** e **Java**.
 - 🛠️ Experiência acadêmica com Banco de Dados (**MySQL**).
-- 🌱 Iniciando meus estudos em **HTML, CSS e JavaScript** para desenvolvimento Web.
+- 🌱 Iniciando meus estudos em **JavaScript, React** para desenvolvimento Web.
 
 ---
 <div align="left">
