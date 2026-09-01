@@ -5,16 +5,13 @@
 
 
 ### 🌸 Sobre mim
+Sou desenvolvedora Full Stack com foco na construção de sistemas eficientes e de arquitetura robusta. Embora possua vivência em toda a pilha de desenvolvimento, minha especialidade e atuação principais direcionam-se ao Back-end utilizando Java e o ecossistema Spring Boot, possuindo domínio na criação de APIs RESTful, estruturação em camadas e modelagem de bancos de dados relacionais.
 
-Sou desenvolvedora em formação, apaixonada por construir sistemas não só que funcionam, mas que são bem organizados por dentro. Meu foco é o Back-end com Java e Spring Boot, onde me sinto mais em casa trabalhando com APIs RESTful, arquitetura em camadas e banco de dados relacionais.
+Atualmente, sou discente no Instituto Federal da Bahia (IFBA) - Campus Irecê, onde busco transcender o escopo acadêmico por meio da aplicação contínua do aprendizado em cenários reais. Como destaque prático, desenvolvo o Emerald, um gerenciador financeiro pessoal full-stack com implantação em ambiente de produção, que tem servido como um excelente ambiente de consolidação das minhas habilidades técnicas.
 
-Estudo no IFBA em Irecê, Bahia, e tenho explorado cada disciplina como uma oportunidade de ir além da sala de aula aplicando o que aprendo em projetos reais. Atualmente estou desenvolvendo o Emerald, um gerenciador financeiro pessoal full-stack com implantação em produção, que tem sido meu maior laboratório prático até agora.
+Compreendo que boas práticas de engenharia de software, como os princípios de organização de código, não são meros conceitos teóricos: são os pilares fundamentais que garantem a manutenibilidade do código, a escalabilidade do sistema e a prevenção do débito técnico. Mantenho-me em contínuo aperfeiçoamento profissional, com o compromisso de entregar soluções de excelência a cada novo projeto.
 
-Acredito que boas práticas como SOLID e Clean Code não são apenas teoria — são o que diferencia um código que sobrevive do tempo de um que vira dívida técnica. Sigo aprendendo, construindo e melhorando a cada projeto. 💪
-
-### 🛠️ Stack
-
-**☕ Back-end & Banco de Dados — foco principal**
+**☕ Back-end & Banco de Dados**
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
@@ -36,7 +33,7 @@ Acredito que boas práticas como SOLID e Clean Code não são apenas teoria — 
 </div>
 <br/>
 
-**⚙️ Ferramentas & Agentes de IA**
+**⚙️ Ferramentas**
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
