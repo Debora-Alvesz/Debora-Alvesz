@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/debora-alvesz/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:deboraasantos.039@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=deboraasantos.039@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.instagram.com/Debora_alvesz" target="_blank">
