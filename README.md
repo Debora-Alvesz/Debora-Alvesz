@@ -1,60 +1,81 @@
-## Hi ! 👋
-### Estudante de Análise e Desenvolvimento de Sistemas🎓
+<!-- HEADER -->
+<div align="center">
+  <img src="./header.svg" width="100%" alt="Banner Débora Alves">
+</div>
 
-- 📚 Atualmente cursando ADS no Instituto Federal da Bahia.
-- 💻 Experiência acadêmica com as linguagens **C** e **Java**.
-- 🛠️ Experiência acadêmica com Banco de Dados (**MySQL**).
-- 🌱 Iniciando meus estudos em **JavaScript e React** para desenvolvimento Web.
 
----
+### 🌸 Sobre mim
+
+Sou desenvolvedora em formação, apaixonada por construir sistemas não só que funcionam, mas que são bem organizados por dentro. Meu foco é o Back-end com Java e Spring Boot, onde me sinto mais em casa trabalhando com APIs RESTful, arquitetura em camadas e banco de dados relacionais.
+
+Estudo no IFBA em Irecê, Bahia, e tenho explorado cada disciplina como uma oportunidade de ir além da sala de aula aplicando o que aprendo em projetos reais. Atualmente estou desenvolvendo o Emerald, um gerenciador financeiro pessoal full-stack com implantação em produção, que tem sido meu maior laboratório prático até agora.
+
+Acredito que boas práticas como SOLID e Clean Code não são apenas teoria — são o que diferencia um código que sobrevive do tempo de um que vira dívida técnica. Sigo aprendendo, construindo e melhorando a cada projeto. 💪
+
+### 🛠️ Stack
+
+**☕ Back-end & Banco de Dados — foco principal**
 <div align="left">
-  <a href="https://www.linkedin.com/in/debora-alvesz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/Debora_alvesz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=deboraasantos.039@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
-</a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div>
+<br/>
 
----
-**Tecnologias e Ferramentas**
-<div style="display: inline-block">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
-  <img align="center" alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+**🌐 Front-end**
+<div align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
+<br/>
 
-<br>
-
-**O que estou aprendendo agora:**
-<div style="display: inline-block">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+**⚙️ Ferramentas & Agentes de IA**
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentes%20de%20IA-DB6B9A?style=for-the-badge&logo=sparkles&logoColor=white"/>
 </div>
+<br/>
 
----
+### 🚀 Projetos
 
-**My Programming Languages**
-<p align="left">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Debora-Alvesz&layout=compact&theme=dracula&title_color=BD93F9&bg_color=00000000"/>
-</p>
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| 💚 **Emerald** | Gerenciador financeiro pessoal full-stack com deploy em produção | Spring Boot, React, PostgreSQL, Supabase |
+| 🎬 **CineScope** | Explorador de filmes e séries com busca, filtros e trailers | React, TypeScript, TMDB API |
+| 💜 **Lumina** | Interface gerenciador de tarefas, dark neon | HTML, CSS, JavaScript |
+| 🏥 **Clínica Médica** | Sistema de gerenciamento via terminal com listas encadeadas | C |
+| 🎵 **Tribute Page** | Página de tributo ao Duo Anavitória com design responsivo | HTML, CSS |
 
-<br>
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Debora-Alvesz&show_icons=true&theme=dracula&title_color=DB6B9A&icon_color=F472B6&bg_color=00000000&hide_border=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Debora-Alvesz&layout=compact&theme=dracula&title_color=DB6B9A&bg_color=00000000&hide_border=true"/>
+</div>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Debora-Alvesz/Debora-Alvesz/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Debora-Alvesz/Debora-Alvesz/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Debora-Alvesz/Debora-Alvesz/output/github-contribution-grid-snake.svg">
+    <img alt="snake" src="https://raw.githubusercontent.com/Debora-Alvesz/Debora-Alvesz/output/github-contribution-grid-snake.svg"/>
   </picture>
+</div>
+
+<br/>
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="./footer.svg" width="100%" alt="Footer Débora Alves">
 </div>
