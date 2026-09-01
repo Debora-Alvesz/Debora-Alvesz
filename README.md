@@ -3,6 +3,19 @@
   <img src="./header.svg" width="100%" alt="Banner Débora Alves">
 </div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/debora-alvesz/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:deboraasantos.039@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.instagram.com/Debora_alvesz" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
+<br/>
+
 
 ### 🌸 Sobre mim
 Sou desenvolvedora Full Stack com foco na construção de sistemas eficientes e de arquitetura robusta. Embora possua vivência em toda a pilha de desenvolvimento, minha especialidade e atuação principais direcionam-se ao Back-end utilizando Java e o ecossistema Spring Boot, possuindo domínio na criação de APIs RESTful, estruturação em camadas e modelagem de bancos de dados relacionais.
